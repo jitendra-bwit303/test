@@ -1,4 +1,3 @@
 <?php
-echo "--test-A";
-echo "--test-B";
+echo "--test-2";
 ?>
